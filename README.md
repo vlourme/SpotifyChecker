@@ -7,6 +7,7 @@
 
 ## Usage
 ```
+> python3 checker.py --help
 Usage: checker.py [OPTIONS] INPUT
 
 Options:
@@ -14,6 +15,12 @@ Options:
   --output TEXT      Output file (e.g.: output.txt)
   --help             Show this message and exit.
 ```
+
+## Captured details
+This checker captures these things:
+- Country (as ISO code)
+- Plan
+- Family Owner
 
 ## TODO
 Check __Projects__ tab to see TODOs
